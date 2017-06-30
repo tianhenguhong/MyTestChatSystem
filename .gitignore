@@ -1,0 +1,8 @@
+*.exe
+*.pdb
+*.cache
+*.dll
+packages
+.vs
+bin
+obj

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemServer", "SystemServer\SystemServer.csproj", "{C3CF4774-0224-4F11-9068-1C021C9E955F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServer", "WebServer\WebServer.csproj", "{BBF9BAC2-46EE-4AD4-B258-3725E37A4071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHtml", "WebHtml\WebHtml.csproj", "{94A18675-131D-4B0A-97BF-4DA7DDA1917B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryServer", "QueryServer\QueryServer.csproj", "{BE8E1A58-7337-4793-8559-292AA36F3CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileServer", "FileServer\FileServer.csproj", "{39E430D4-CB72-44D6-8768-479DF1530AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTSocket", "Socket.Common\MTSocket.csproj", "{54DCD8C3-8E1D-484C-815D-061BF6357F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemServer.Common", "SystemServer.Common\SystemServer.Common.csproj", "{297E5DF2-079E-4119-8BDC-B477AE3B1120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3CF4774-0224-4F11-9068-1C021C9E955F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CF4774-0224-4F11-9068-1C021C9E955F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CF4774-0224-4F11-9068-1C021C9E955F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CF4774-0224-4F11-9068-1C021C9E955F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF9BAC2-46EE-4AD4-B258-3725E37A4071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF9BAC2-46EE-4AD4-B258-3725E37A4071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF9BAC2-46EE-4AD4-B258-3725E37A4071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF9BAC2-46EE-4AD4-B258-3725E37A4071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A18675-131D-4B0A-97BF-4DA7DDA1917B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A18675-131D-4B0A-97BF-4DA7DDA1917B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A18675-131D-4B0A-97BF-4DA7DDA1917B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A18675-131D-4B0A-97BF-4DA7DDA1917B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8E1A58-7337-4793-8559-292AA36F3CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8E1A58-7337-4793-8559-292AA36F3CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8E1A58-7337-4793-8559-292AA36F3CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8E1A58-7337-4793-8559-292AA36F3CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E430D4-CB72-44D6-8768-479DF1530AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E430D4-CB72-44D6-8768-479DF1530AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E430D4-CB72-44D6-8768-479DF1530AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E430D4-CB72-44D6-8768-479DF1530AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DCD8C3-8E1D-484C-815D-061BF6357F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DCD8C3-8E1D-484C-815D-061BF6357F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DCD8C3-8E1D-484C-815D-061BF6357F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DCD8C3-8E1D-484C-815D-061BF6357F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297E5DF2-079E-4119-8BDC-B477AE3B1120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297E5DF2-079E-4119-8BDC-B477AE3B1120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297E5DF2-079E-4119-8BDC-B477AE3B1120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297E5DF2-079E-4119-8BDC-B477AE3B1120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
