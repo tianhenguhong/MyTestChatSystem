@@ -45,10 +45,10 @@
     <Compile Include="ClientSocket.cs" />
     <Compile Include="DataItem.cs" />
     <Compile Include="DataMessage.cs" />
-    <Compile Include="ListExtension.cs" />
     <Compile Include="LogonMessage.cs" />
     <Compile Include="MessageType.cs" />
     <Compile Include="MTUtil.cs" />
+    <Compile Include="RecieverCollection.cs" />
     <Compile Include="ServerSocket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
